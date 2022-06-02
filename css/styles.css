@@ -1,25 +1,28 @@
-div{
-
-    background-color:#2f2fa2 ;
-    line-height: 1.7em;
-    color: #f64c72;
-    border-style:groove;
-    text-align: left;
-    text-indent: 1ch;
-  
-}
-
-
-h2{
-    color:antiquewhite
-}
-h3{
-    color:antiquewhite
-}
 
 
 body{
 
-    background-color: #2f2fa2;
+    background-color: #5cdb95;
+   
+}
+
+.header-div{
+
+    color:#edf5e1
+   
+}
+
+h1,
+h2,h3{
+
+    border-style: ridge;
+    border-color: #05386b;
+    background-color: #05386b;
+    border-style: groove;
+}   
+
+.text-div{
+
+     color:white
 }
 
